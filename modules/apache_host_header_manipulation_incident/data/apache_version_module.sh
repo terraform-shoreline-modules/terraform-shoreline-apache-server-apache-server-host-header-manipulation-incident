@@ -1,0 +1,3 @@
+apachectl -v
+
+apachectl -M
